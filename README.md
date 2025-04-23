@@ -1,1 +1,1 @@
-# automation-with-playwright-mcp
+# playwright-mcp
